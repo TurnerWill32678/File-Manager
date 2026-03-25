@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360595165416",
+    "project_id": "myapp-12f5a",
+    "storage_bucket": "myapp-12f5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360595165416:android:c60e799e303f708b80f95d",
+        "android_client_info": {
+          "package_name": "com.SDdevelopers.chatAPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_anbWxXqSZKV3XiQbEqzZVqrZ8xBmBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360595165416:android:4ddf83e5b38f215d80f95d",
+        "android_client_info": {
+          "package_name": "com.example.mineapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_anbWxXqSZKV3XiQbEqzZVqrZ8xBmBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
